@@ -1,0 +1,36 @@
+@font-face {font-family: 'AvenirNextLTPro-Regular';src: url('site-fonts/28882F_0_0.eot');src: url('fsite-onts/28882F_0_0.eot?#iefix') format('embedded-opentype'),url('site-fonts/28882F_0_0.woff') format('woff'),url('site-fonts/28882F_0_0.ttf') format('truetype');}
+
+
+body {
+    padding-top: 5rem;
+    font-size: 16px;
+    font-family: "AvenirNextLTPro-Regular", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+}
+
+
+.skill-icons li, li {
+    display: inline;
+    color: #343a40;
+    font-size: 62px;
+    text-align: center;
+}
+
+.skill-icons {
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
+
+.skill-icons li {
+    padding: 0 30px;
+}
+
+.cv-title { 
+	font-size: 14px;
+}
+
+.cv-content {
+	font-size: 12px;
+}
+
