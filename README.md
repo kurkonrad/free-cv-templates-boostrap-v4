@@ -13,7 +13,7 @@ https://wkhtmltopdf.org/downloads.html
 $ wkhtmltopdf http://www.google.com google.pdf
 ```
 
-# buld your own cv
+# build your own cv
 ```
 $ cd free-cv-templates-boostrap
 $ wkhtml2pdf templates/cv_01_software_developer.html media/cv_01_software_developer.pdf
