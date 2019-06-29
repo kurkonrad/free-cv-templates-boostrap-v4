@@ -1,0 +1,47 @@
+
+
+body {
+    padding-top: 5rem;
+    font-size: 16px;
+    font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height:1.5
+}
+
+li {
+    font-size: 12px;
+}
+
+p {
+    margin-bottom: 0px;
+}
+
+hr {
+    margin: 7px 0 !important; padding:0 !important;
+}
+
+.skill-icons li {
+    display: inline;
+    color: #343a40;
+    font-size: 62px;
+    text-align: center;
+}
+
+.skill-icons {
+    padding: 0;
+    margin: 20px 0;
+    text-align: center;
+}
+
+.skill-icons li {
+    padding: 0 30px;
+    font-size: 36px;
+}
+
+.cv-title { 
+	font-size: 14px;
+}
+
+.cv-content {
+	font-size: 12px;
+}
+
